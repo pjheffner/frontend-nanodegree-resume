@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+	The repo is created.
+	
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+	The staging area is an interim place before the repository, used by commit. The working 
+	directory can have lots of junk in it that may never get committed. It's a better place
+	to code/test and try things out, whereas the staging area is reserved for files that will
+	be committed and maybe bundled with others to be committed as a pkg.
