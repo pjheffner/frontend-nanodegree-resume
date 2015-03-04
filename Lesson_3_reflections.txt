@@ -1,1 +1,2 @@
-
+When would you want to use a remote repository rather than keeping all your work local?
+  when you want to have a safe backup copy other than your desktop, when your project requires remote storage
