@@ -1,0 +1,15 @@
+diff is great for comparing files, been using it forever
+
+the entire history of a file can help you go back to an earlier version, test from the begininng to 
+the end to find out where the code broke. write new code that is similar to a previous version of code,
+but not necessarily the current one
+
+pros of manual commits - you can make them based on logical units of work
+cons - you have to remember to do it and be disciplined, choose the right size unit
+
+Git allows multiple files to be committed together b/c it's for code, google docs is not
+
+git log lets you see what files have been committed (each commit)
+git diff lets you diff the files by providing the commit numbers
+
+version control makes you more confidnet about making changes b/c you can always go back to prev versions easily
