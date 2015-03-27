@@ -187,14 +187,17 @@ var education= {
             }
 }
 
+//Add data from objects to html
 bio.display();
 work.display();
 projects.display();
 education.display();
 bio.displayFooter();
 
+//Add Google Map
 $("#mapDiv").append(googleMap);
 
+//Count clicks and log to console
 $(document).click(function(loc) {
 	var x = loc.pageX;
 	var y = loc.pageY;
